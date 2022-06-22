@@ -1,0 +1,15 @@
+package Pokemon;
+
+
+public class timeThread implements Runnable {
+	// ½Ã°£
+	
+	@Override
+	public void run() {
+
+		
+	 }
+	
+}
+	
+	

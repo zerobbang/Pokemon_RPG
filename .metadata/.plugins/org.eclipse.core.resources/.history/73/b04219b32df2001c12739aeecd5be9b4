@@ -1,0 +1,10 @@
+package Pokemon;
+
+
+public class monster {
+	
+	static int hp = 20;
+	
+	
+	
+}
